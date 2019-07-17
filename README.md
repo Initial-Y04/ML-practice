@@ -1,2 +1,2 @@
-# ML-practice
-machine learning learn and practice
+# python project
+Web scraping and Machine learning
